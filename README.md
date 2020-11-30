@@ -22,3 +22,6 @@ Please make sure to update tests as appropriate. (I'all add some tests in the fu
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Comment
+As this is a school project, do not expect updates or any major changes to the repository.
